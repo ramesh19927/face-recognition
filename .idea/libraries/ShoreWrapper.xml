@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShoreWrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/facerecognition/libs/ShoreWrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

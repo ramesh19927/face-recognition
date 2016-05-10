@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ramesh-PC\\Downloads\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_view.xml",
+        "source": "C:\\Users\\Ramesh-PC\\Downloads\\face-recognition\\facerecognition\\src\\main\\res\\layout\\catalog_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramesh-PC\\Downloads\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagearray.xml",
+        "source": "C:\\Users\\Ramesh-PC\\Downloads\\face-recognition\\facerecognition\\src\\main\\res\\layout\\activity_imagearray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramesh-PC\\Downloads\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\layout\\face_detect_surface_view.xml",
+        "source": "C:\\Users\\Ramesh-PC\\Downloads\\face-recognition\\facerecognition\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    }
+]
